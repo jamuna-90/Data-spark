@@ -43,6 +43,16 @@ Power BI:
 
 SQL Query:
 # I am creating the 10 sql query and the display the answers..
+#1.SQL Query : How many customers are there for each gender?
+#2..SQL Query : Descending order to display the customer key
+#3..SQL Query :How do you  merge the Customer_details and sales_details tables based on a common key?
+#4.SQL Query :How do you  merge the product_details and sales_details tables based on a common key?
+#5.SQL Query : Get all stores in the USA
+#6.SQL Query : How do you find the minimum value of the Square Meters column?
+#7.SQL Query : Find the top 5 most expensive products?
+#8.SQL Query : How do you calculate the avg of exchange?
+#9.SQL Query :Delivery date for orders where the store key = 0?
+#10.SQL Query :How do Group by the Category in products_details?
 
   
 
